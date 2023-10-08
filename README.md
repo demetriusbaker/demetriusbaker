@@ -17,7 +17,7 @@ I am excited to collaborate with other developers and designers to create innova
 ![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=Github&logoColor=FFFFFF)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase&logoColor=F8C52C)
 
-### Code training
+### Code training:
 
 [<img src="https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=codewars&logoColor=FF0000">](https://www.codewars.com/users/Demetrius%20Baker)
 [<img src="https://img.shields.io/badge/-Leetcode-090909?style=for-the-badge&logo=leetcode&logoColor=FFAA00">](https://leetcode.com/8DietmarBarbarossa8/)
